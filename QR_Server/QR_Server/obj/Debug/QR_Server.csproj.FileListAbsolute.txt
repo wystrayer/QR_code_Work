@@ -1,0 +1,10 @@
+C:\Users\Han\Documents\GitHub\QRcode_work\QR_Server\QR_Server\bin\Debug\QR_Server.exe.config
+C:\Users\Han\Documents\GitHub\QRcode_work\QR_Server\QR_Server\bin\Debug\QR_Server.exe
+C:\Users\Han\Documents\GitHub\QRcode_work\QR_Server\QR_Server\bin\Debug\QR_Server.pdb
+C:\Users\Han\Documents\GitHub\QRcode_work\QR_Server\QR_Server\bin\Debug\zxing.dll
+C:\Users\Han\Documents\GitHub\QRcode_work\QR_Server\QR_Server\obj\Debug\QR_Server.csprojResolveAssemblyReference.cache
+C:\Users\Han\Documents\GitHub\QRcode_work\QR_Server\QR_Server\obj\Debug\QR_Server.Form1.resources
+C:\Users\Han\Documents\GitHub\QRcode_work\QR_Server\QR_Server\obj\Debug\QR_Server.Properties.Resources.resources
+C:\Users\Han\Documents\GitHub\QRcode_work\QR_Server\QR_Server\obj\Debug\QR_Server.csproj.GenerateResource.Cache
+C:\Users\Han\Documents\GitHub\QRcode_work\QR_Server\QR_Server\obj\Debug\QR_Server.exe
+C:\Users\Han\Documents\GitHub\QRcode_work\QR_Server\QR_Server\obj\Debug\QR_Server.pdb
